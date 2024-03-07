@@ -1,3 +1,4 @@
+product_id,customer_id,order_date,location,source_order
 1,A, 2023-01-01,India,Swiggy
 2,A, 2022-01-01,India,Swiggy
 2,A, 2023-01-07,India,Swiggy
